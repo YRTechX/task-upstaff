@@ -50,5 +50,4 @@ function insertInDom(){
     window.addEventListener('resize', setElementWidth(div))
 
 }
-
 insertInDom()
